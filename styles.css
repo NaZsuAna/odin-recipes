@@ -1,0 +1,37 @@
+body {
+    background-color: bisque;
+}
+
+h1.recipes {
+    font-size: 42px;
+    text-align: center;
+    font-family: Monaco, monospace;
+    font-weight: 700;
+}
+
+img {
+    width: 550px;
+    height: auto;
+}
+
+a {
+    color: green;
+    font-size: 26px;
+    font-weight: 800;
+}
+
+.soup {
+    font-family: Papyrus, Copperplate, fantasy;
+    color: #6a040f;
+}
+
+.mac {
+    color:#7b2cbf;
+    font-size: 18px;
+}
+
+.cupcake {
+    font-family: "Courier New", monospace;
+    font-weight: 900;
+    font-weight: 200;
+}
